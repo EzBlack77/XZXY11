@@ -1,0 +1,2 @@
+curl https://api.omise.co/transfers/schedules \
+  -u skey_test_5uy111q4jcmgam92r3o:
